@@ -9,13 +9,11 @@ Thank you for taking the time to [review my Indeed resume](https://my.indeed.com
 ### 📣 Quick About_ME:
 
 Talking about personal stuff.
-```markdown
 - In case you have not guessed, I'm the one on the right (Sorry for the low-res, the photo was too epic not to be shared).
 - Mexican born, American raised, Japanese fed.
 - English, Spanish, some French and German will do too.
 - Learning Dart and loving it! 💗
 - Doing my best; always happy to help; can take no's; "The devil is in the detail".
-```
 
 ### 🔥 Add me to your team, just copy-paste this:
 ```dart
