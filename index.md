@@ -1,12 +1,8 @@
-## Hi, I'm Hassan! I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Always curious to learn cutting edge technology.
+## Hi, I'm Hassan!
 
-Sportsman, multi athlete, reader, IT guru on-the-making, an entrepreneurial soul, self-starter and willing to travel anywhere.
+I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Always curious to learn cutting edge technology.
 
-Thank you for taking the time to review my resume.
-
-You can use the [editor on GitHub](https://github.com/4Federiz/HelloWorld/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thank you for taking the time to [review my Indeed resume](https://my.indeed.com/p/hassanfuada-nl4vimd). You may want to [get in touch](federiz.com) right away!
 
 ### Markdown
 
