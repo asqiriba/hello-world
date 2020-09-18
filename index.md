@@ -4,7 +4,7 @@
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Always curious to learn cutting edge technology. Love connecting with different people.
 
-Thank you for taking the time to [review my Indeed resume](https://my.indeed.com/p/hassanfuada-nl4vimd) and my [Github page](https://github.com/4Federiz). You may want to send me an email and [get in touch](federiz.com) right away too! (It's false that computer people get scared by social interaction... sometimes... in daytime).
+Thank you for taking the time to [review my Indeed resume](https://my.indeed.com/p/hassanfuada-nl4vimd) and my [Github page](https://github.com/asqiriba). You may want to send me an email and [get in touch](me.federiz.com) right away too! (It's false that computer people get scared by social interaction... sometimes... in daytime. Love working with clients and teammates!).
 
 ### 📣 Quick About_ME:
 
@@ -32,5 +32,5 @@ const kHassan = {
 }
 ```
 
-Still reading? [Hit me up](federiz.com)!
+Still reading? [Hit me up](me.federiz.com)!
 💾 EOF
