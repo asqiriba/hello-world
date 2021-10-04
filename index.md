@@ -1,6 +1,6 @@
 ## Hi, I'm Hassan!
 
-![](IMG_7244.JPG)
+![](image0.png)
 
 I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Always curious to learn cutting edge technology. Love connecting with different people.
 
